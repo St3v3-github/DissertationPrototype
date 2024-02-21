@@ -15,7 +15,8 @@ EditorBuildSettings:
     path: Assets/Scenes/c. Almost Good/Play Ball.unity
     guid: e71a26738e2b19a4ebf338df1350cc7a
   - enabled: 1
-    path: Assets/Scenes/Dissertation Demo Scenes/ATProject Submission.unity
+    path: Assets/Scenes/Dissertation Demo Scenes/Poster and Progress Update/ATProject
+      Submission.unity
     guid: b7809f3671878ba4389e999c3ab1a87e
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6749fa2665116e746b4658edb439b8d8,
